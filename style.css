@@ -1,0 +1,333 @@
+p
+{
+	font-family:sans serif;
+}
+.corp-cv
+{
+	display: flex;
+	width: 850px;
+	height: none;
+	margin-left: 70px;
+	border: 1px solid black;
+}
+.bloc-gauche
+{
+	width: 430px;
+	height: 1000;
+	background: linear-gradient(180deg, #3b56a5, #43bbe7);
+}
+.bloc-droite
+{
+	width: 400px;
+	height: 1000;
+	margin-left: -137px;
+	background-color: #ffffff;
+	border-radius: 100px 0px 0px 100px;
+}
+.img
+{
+	width: 180px;
+	height: 180px;
+	margin-top: 30px;
+	margin-left: 50px;
+	border: 4px solid #ffffff;
+	border-radius: 100%;
+}
+.contacte
+{
+	color: #ffffff;
+	margin-left: 30px;
+}
+.bloc-icone
+{
+	margin-top: -10px;
+}
+.icone1
+{
+	width: 15px;
+	height: 15px;
+}
+.icone2
+{
+	width: 15px;
+	height: 15px;
+	margin-top: -15px;
+}
+.icone3
+{
+	width: 15px;
+	height: 15px;
+	margin-top: -18px;
+}
+.flex
+{
+	display: flex;
+}
+.texte1
+{
+	margin-left: 10px;
+	margin-top: 0px;
+}
+.texte2
+{
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-top: -15px;
+}
+.texte3
+{
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-top: -18px;
+}
+.perso
+{
+	margin-top: -15px;
+}
+.perso2
+{
+	margin-top: -15px;
+}
+.perso3
+{
+	margin-top: -15px;
+}
+.perso4
+{
+	margin-top: -15px;
+}
+.perso5
+{
+	margin-top: -15px;
+}
+.skill
+{
+	display: flex;
+}
+.skills1 
+{
+	margin-top: -9px;
+}
+
+.barre1
+{
+	width: 150px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	border-radius: 6px;
+	margin-left: 5px;
+	background-color: #ffffff;
+}
+.barre2
+{
+	width: 130px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 44px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.barre3
+{
+	width: 125px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 38px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.barre4
+{
+	width: 140px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 32px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.barre5
+{
+	width: 150px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 50px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+
+.barre6
+{
+	width: 150px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	border-radius: 6px;
+	margin-left: 23px;
+	background-color: #ffffff;
+}
+.barre7
+{
+	width: 130px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 88px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.barre8
+{
+	width: 125px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 75px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.barre9
+{
+	width: 140px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 55px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.barre10
+{
+	width: 150px;
+	height: 3px;
+	border: 1px solid #ffffff;
+	margin-left: 52px;
+	border-radius: 6px;
+	background-color: #ffffff;
+}
+.logiciel
+{
+	display: flex;
+}
+.logiciels 
+{
+	margin-top: -9px;
+}
+.hobbie-icone
+{
+	width: 20px;
+	height: 20px;
+	margin-left: 50px;
+}
+.hobbie-texte
+{
+	margin-left: 50px;
+
+}
+.loisire1
+{
+	display: flex;
+	margin-left: -50px;
+}
+
+
+
+
+.apropos
+{
+	margin-left:30px;
+}
+.presentation
+{
+	margin-left: 100px;
+}
+h1
+{
+	margin-top: -25px;
+	color:#3b56a5; 
+}
+h4
+{
+	margin-top: -25px;
+	color:#c8c6c6; 
+}
+.formation
+{
+	width: 500px;
+	height: none;
+	margin-top: 10px;
+	margin-left: 82px;
+	border-left: 2px solid #33cccc; 
+}
+
+.ecole
+{
+	color:#33cccc;
+	text-align:center;
+}
+
+.h
+{
+	margin-left: 30px;
+	margin-top: 15px;
+	color: #3b56a5;
+}
+.experience
+{
+	display: flex;
+	margin-top: 10px;
+	margin-left: 30px;
+	width: 450px;
+}
+.ex
+{
+	display: flex;
+}
+.barre-vert
+{
+	width: 7px;
+	height: 120px;
+	margin-left: 35px;
+	margin-top: 20px;
+	background-color:#afb0b1;
+}
+.nom-entreprise
+{
+	margin-top: 20px;
+}
+.role
+{
+	margin-left: 30px;
+}
+
+.bloc-formation
+{
+	display: flex;
+	margin-top: 10px;
+	margin-left: 30px;
+	width: 450px;
+}
+.barre-vert2
+{
+	width: 2px;
+	height: 50px;
+	margin-left: 8px;
+	margin-top: 20px;
+	background-color:#afb0b1;
+}
+.barre-vert3
+{
+	width: 2px;
+	height: 50px;
+	margin-left: 61px;
+	margin-top: 20px;
+	background-color:#afb0b1;
+}
+.barre-vert4
+{
+	width: 2px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: 20px;
+	background-color:#afb0b1;
+}
+
+.conteneur
+{
+	display: flex;
+}
